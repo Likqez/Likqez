@@ -1,16 +1,20 @@
-### Hi there 👋
+# Lukas Lanzner - Likqez
 
-<!--
-**Likqez/Likqez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+Hello everyone, I'm Lukas, 16 years old, and I'm from Stuttgart. I am always trying to expand my knowledge and perfect my skills. Working in projects is fun for me. Feel free to contact me via Telegram or other ways :) <br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🔭 I’m currently working on cool software for [@dotSpaceTeam](https://github.com/dotSpaceTeam)
+ 
+ 🌱 I’m currently learning K8s and python
+ 
+ 👯 I’m looking to collaborate on java projects
+ 
+ 💬 Ask me about server administration & games
+ 
+ 🖥 For contract development visit [dotSpace Dev. Team](https://dotspace.team)
+    *Site may be under construction*
+ 
+ 📫 How to reach me: 
+   - [Telegram](https://t.me/Likqez)
+   - [Twitter](https://twitter.com/Likqez)
+   - [E-Mail](mailto:lukas@lanzner.at)
