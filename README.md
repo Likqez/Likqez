@@ -1,7 +1,9 @@
 # Lukas Lanzner - Likqez
 
 <br>
-Hello everyone, I'm Lukas, 16 years old, and I'm from Stuttgart. I am always trying to expand my knowledge and perfect my skills. Working on projects is fun for me. Feel free to contact me via Telegram or other ways :) <br>
+Hello everyone, I'm Lukas, 16 years old, and I'm from Stuttgart. I am always trying to expand my knowledge and perfect my skills. Working on projects is fun for me. Feel free to contact me via Telegram or other ways :)
+<br>
+<br>
 
  🔭 I’m currently working on software solutions for [@dotSpaceTeam](https://github.com/dotSpaceTeam)
  
