@@ -11,7 +11,7 @@ Hello everyone, I'm Lukas, 16 years old, and I'm from Stuttgart. I am always try
  
  💬 Ask me about server administration & games
  
- 🖥 For contract development visit [dotSpace Dev. Team](https://dotspace.team)
+ 🖥 For contract development visit [dotSpace Development](https://dotspace.dev)
     *Site may be under construction*
  
  📫 How to reach me: 
