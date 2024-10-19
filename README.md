@@ -1,7 +1,7 @@
 # Lukas Lanzner - Likqez
 
-Hello everyone, I'm Lukas, an 19 years old student from Stuttgart.
-I'm enrolled at the [Baden-Wuerttemberg Cooperative State University](https://www.dhbw.de/english/home) studying computer science, with a special focus on computational data science.  
+Hello everyone, I'm Lukas, an 20 years old student from Stuttgart.
+I'm enrolled at the [Baden-Wuerttemberg Cooperative State University](https://www.dhbw.de/english/home) studying computer science. 
 I am always trying to expand my knowledge and perfect my skills.
 Working on diverse projects is fun for me. Except it's frontend only 🤡  
     
